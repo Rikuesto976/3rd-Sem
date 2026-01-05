@@ -21,7 +21,6 @@ public class BtnEx {
         gbc.fill = GridBagConstraints.HORIZONTAL;
         
         gbc.gridx= 0;       gbc.gridy=0;
-        gbc.weightx=2;
         f.add(b1, gbc);
         
         gbc.gridx= 1;       gbc.gridy=0;
@@ -51,3 +50,4 @@ public class BtnEx {
         new BtnEx();
     }
 }
+
